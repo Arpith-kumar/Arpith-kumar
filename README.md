@@ -8,7 +8,7 @@
 <img  src="https://profile-counter.glitch.me/Arpith-kumar/count.svg" />
 </p>
 
-[//]: I'm an ML/AI enthusiast and a software engineer who is passionate about creating innovative solutions to elevate people, and build communities. Currently, I study [//]: [//]: [Computer Science & Engineering](https://www.instagram.com/core_mite/) at [Mangalore Institute of Technology and Engineering](http://www.mite.ac.in/) :technologist:. I am [//]: also the member and Chairperson at the [MITE Open Source Community](https://www.instagram.com/mosc.mite/). :globe_with_meridians:
+[comment]: <> I'm an ML/AI enthusiast and a software engineer who is passionate about creating innovative solutions to elevate people, and build communities. Currently, I study [//]: [Computer Science & Engineering](https://www.instagram.com/core_mite/) at [Mangalore Institute of Technology and Engineering](http://www.mite.ac.in/) :technologist:. I am  also the member and Chairperson at the [MITE Open Source Community](https://www.instagram.com/mosc.mite/). :globe_with_meridians:
 
 > ##  :zap: Skills and Technologies <img src="https://emojis.slackmojis.com/emojis/images/1450452697/175/sonic-wait.gif?1450452697" width="30"/>
 >
