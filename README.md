@@ -1,11 +1,11 @@
 ﻿
 #  Hey!, I'm Arpith :wave: :man_technologist: [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-![](https://github.com/Arpith-kumar/Arpith-kumar/blob/master/dark1.png)
+![](https://github.com/arpith-s/arpith-s/blob/master/dark1.png)
 
 <p  align="center">
 <b>Profile Visitor Count</u><br>
-<img  src="https://profile-counter.glitch.me/Arpith-kumar/count.svg" />
+<img  src="https://profile-counter.glitch.me/arpith-s/count.svg" />
 </p>
 
 > ##  :zap: Skills and Technologies <img src="https://emojis.slackmojis.com/emojis/images/1450452697/175/sonic-wait.gif?1450452697" width="30"/>
@@ -19,13 +19,13 @@
 >
 ## :chart_with_upwards_trend: Github Stats:
 <div>
-    <img align="right" width="320" height="320" src="https://github.com/Arpith-kumar/Arpith-kumar/blob/master/octocat_.png" />
-    <img align="left" width="415" src="https://github-readme-stats.vercel.app/api?username=Arpith-kumar&show_icons=true&hide_border=true">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpith-kumar&show_icons=true&hide_border=true&layout=compact">
+    <img align="right" width="320" height="320" src="https://github.com/arpith-s/arpith-s/blob/master/octocat_.png" />
+    <img align="left" width="415" src="https://github-readme-stats.vercel.app/api?username=arpith-s&show_icons=true&hide_border=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpith-s&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 <br>
  
 <!-- <p align="center">
-    Designed with ❤️ by <a  href="https://github.com/Arpith-kumar">Arpith</a><img  src="https://emojis.slackmojis.com/emojis/images/1471045842/804/dog.gif?1471045842"  width="50"/>
+    Designed with ❤️ by <a  href="https://github.com/arpith-s">Arpith</a><img  src="https://emojis.slackmojis.com/emojis/images/1471045842/804/dog.gif?1471045842"  width="50"/>
 </p> -->
